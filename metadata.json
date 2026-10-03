@@ -1,0 +1,6 @@
+{
+  "name": "Lucas Karam - Recuperação de PIX",
+  "description": "Assessoria jurídica especializada para vítimas de golpes do PIX e fraudes bancárias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
